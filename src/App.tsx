@@ -15,6 +15,7 @@ function App() {
     const savedCount = localStorage.getItem('userCount')
     return savedCount ? parseInt(savedCount) : 0
   })
+
   const phrases = [
     "Ты справишься!",
     "Вперёд к цели!",
@@ -22,8 +23,8 @@ function App() {
     "Каждый шаг — прогресс",
     "Сделай это ради себя",
     "Ты сильнее, чем думаешь"
-  ];
-  
+  ]
+
   useEffect(() => {
     let interval: NodeJS.Timeout
     if (isRunning && timeRemaining > 0) {
