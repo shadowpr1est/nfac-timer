@@ -1,0 +1,24 @@
+{
+  "name": "my-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "undici-types": "^6.21.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shadowpr1est/nfac-timer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shadowpr1est/nfac-timer/issues"
+  },
+  "homepage": "https://github.com/shadowpr1est/nfac-timer#readme",
+  "description": ""
+}
