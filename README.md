@@ -2,7 +2,7 @@
 
 
 https://nfac-timer.onrender.com/
-
+https://nfac-timer.vercel.app/
 
 
 
